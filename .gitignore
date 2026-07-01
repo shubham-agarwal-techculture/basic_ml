@@ -1,0 +1,16 @@
+.venv
+__pycache__/
+data/
+*.csv
+
+
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
+node_modules/
+.DS_Store
+.env
